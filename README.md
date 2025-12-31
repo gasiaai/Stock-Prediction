@@ -53,6 +53,7 @@ The system has been tested with 280+ NASDAQ stocks, achieving:
 ## 📚 Educational Background
 
 This project was developed by studying MIT OpenCourseWare videos on:
+- https://youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR&si=a44FQwrR8riPEZzS
 - Linear Algebra and applications in finance
 - Probability and Statistics for financial modeling
 - Optimization techniques for portfolio management
@@ -288,9 +289,10 @@ momentum = prices.pct_change(252)  # 1-year momentum
 5. เปิด Pull Request
 
 ## 📚 แหล่งเรียนรู้และอ้างอิง
-
+Youtube
+- https://youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR&si=a44FQwrR8riPEZzS
 หลักการทางการเงิน
-- MIT Financial Engineering: แนวคิดหลักในการพัฒนาระบบ
+- MIT Financial Engineering: แนวคิดหลักในการพัฒนาระบบ 
 - Modern Portfolio Theory: Harry Markowitz
 - Fama-French Model: Eugene Fama และ Kenneth French
 - Black-Scholes Model: Fischer Black และ Myron Scholes
@@ -314,7 +316,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 ติดต่อ
 
 - ผู้พัฒนา: GASIA AI
-- Email: Pakalula1999@gmail.com.com
+- Email: Pakalula1999@gmail.com
 - GitHub: https://github.com/gasiaai
 
 ---
