@@ -8,6 +8,15 @@ A comprehensive Python implementation of quantitative finance models inspired by
 
 *Built experimentally using AI-assisted coding from MIT University YouTube lecture clips on mathematics and quantitative finance.*
 
+## ☕ Support
+
+If you find this project helpful or interesting, consider supporting me at [Ko-fi](https://ko-fi.com/gasia123)! Your support helps me continue developing open-source financial tools and educational content.
+
+<a href="https://ko-fi.com/gasia123">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+
+
 ## 🎯 Project Overview
 
 This repository contains a complete stock analysis system built from the ground up, translating theoretical concepts from MIT's mathematics and finance courses into working Python code. The system includes:
