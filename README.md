@@ -304,10 +304,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 ติดต่อ
 
-- ผู้พัฒนา: [Your Name]
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- ผู้พัฒนา: GASIA AI
+- Email: Pakalula1999@gmail.com.com
+- GitHub: https://github.com/gasiaai
 
 ---
 
