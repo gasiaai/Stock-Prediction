@@ -29,7 +29,7 @@ This repository contains a complete stock analysis system built from the ground 
 ## 📊 Experimental Results
 
 The system has been tested with 280+ NASDAQ stocks, achieving:
-- **65.7% prediction accuracy** across all stocks
+- **65.7% prediction accuracy** across all stocks (Technology, Healthcare Sector only with $2B-$200B Marketcap)
 - **80% accuracy** for top-performing stocks
 - Comprehensive decile analysis showing predictive power varies by Sharpe ratio
 
